@@ -1,0 +1,9 @@
+C:\Users\zoirasu\source\repos\queue-main\bin\Debug\queue-main.exe.config
+C:\Users\zoirasu\source\repos\queue-main\bin\Debug\queue-main.exe
+C:\Users\zoirasu\source\repos\queue-main\bin\Debug\queue-main.pdb
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue-main.csprojAssemblyReference.cache
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue_main.Form1.resources
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue_main.Properties.Resources.resources
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue-main.csproj.GenerateResource.cache
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue-main.exe
+C:\Users\zoirasu\source\repos\queue-main\obj\Debug\queue-main.pdb

@@ -1,0 +1,6 @@
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\bin\Debug\Algoritmalar_lab2_141180059.exe.config
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\bin\Debug\Algoritmalar_lab2_141180059.exe
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\bin\Debug\Algoritmalar_lab2_141180059.pdb
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\obj\Debug\Algoritmalar_lab2_141180059.csprojAssemblyReference.cache
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\obj\Debug\Algoritmalar_lab2_141180059.exe
+C:\Users\zoirasu\source\repos\Algoritmalar_lab2_141180059\obj\Debug\Algoritmalar_lab2_141180059.pdb

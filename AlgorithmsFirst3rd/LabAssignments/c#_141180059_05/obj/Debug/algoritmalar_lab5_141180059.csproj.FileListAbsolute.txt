@@ -1,0 +1,12 @@
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\bin\Debug\algoritmalar_lab5_141180059.exe.config
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\bin\Debug\algoritmalar_lab5_141180059.exe
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\bin\Debug\algoritmalar_lab5_141180059.pdb
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\obj\Debug\algoritmalar_lab5_141180059.csprojAssemblyReference.cache
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\obj\Debug\algoritmalar_lab5_141180059.exe
+C:\Users\zoirasu\source\repos\algoritmalar_lab5_141180059\obj\Debug\algoritmalar_lab5_141180059.pdb
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\bin\Debug\algoritmalar_lab5_141180059.exe.config
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\bin\Debug\algoritmalar_lab5_141180059.exe
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\bin\Debug\algoritmalar_lab5_141180059.pdb
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\obj\Debug\algoritmalar_lab5_141180059.csprojAssemblyReference.cache
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\obj\Debug\algoritmalar_lab5_141180059.exe
+C:\Users\zoirasu\Desktop\c#_141180059_lab5\obj\Debug\algoritmalar_lab5_141180059.pdb

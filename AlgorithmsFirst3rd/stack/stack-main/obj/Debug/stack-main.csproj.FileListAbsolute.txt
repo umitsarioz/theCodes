@@ -1,0 +1,10 @@
+C:\Users\mmhus\source\repos\stack-main\stack-main\bin\Debug\stack-main.exe.config
+C:\Users\mmhus\source\repos\stack-main\stack-main\bin\Debug\stack-main.exe
+C:\Users\mmhus\source\repos\stack-main\stack-main\bin\Debug\stack-main.pdb
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack-main.csprojAssemblyReference.cache
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack_main.Form1.resources
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack_main.Properties.Resources.resources
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack-main.csproj.GenerateResource.cache
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack-main.csproj.CoreCompileInputs.cache
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack-main.exe
+C:\Users\mmhus\source\repos\stack-main\stack-main\obj\Debug\stack-main.pdb

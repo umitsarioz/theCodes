@@ -1,0 +1,21 @@
+-- Grafı çalıştırmak için : 
+-- bu dijkstra.hs dosyasını load edilmeli.
+-- grafYukle ile txt halindeki graf yuklenmeli bir fonksiyonla dijkstra algo. çalıştırılabilir. 
+
+-- örnek kullanım : 
+--ghci
+--Prelude>:load djikstra.hs
+--Djikstra> :browse DijkstraAlgoritmasi
+
+--Dijkstra> txt <- readFile "graph.txt"
+--Dijkstra > let graf = grafYukle txt False
+
+--İstenilen node'un diger komsularına olan uzaklıklarını görmek için:
+--Dijkstra > kenarIslemleri graf "istenilen_node"
+
+--Başlangıç noktasından diğer node'lara en kısa yolu görmek için : 
+--Dijkstra > let calistir =dijkstra graf "baslangic_node'u"
+--Dijkstra > calistir
+
+--İstenilen bir node'a ulaşmak için hangi yolu kullanmamız gerektiğini görmek için:
+--Dijkstra > guzergah calistir "istenen node" 

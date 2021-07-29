@@ -1,0 +1,6 @@
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\bin\Debug\algo_odev3_141180059_last.exe.config
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\bin\Debug\algo_odev3_141180059_last.exe
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\bin\Debug\algo_odev3_141180059_last.pdb
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\obj\Debug\algo_odev3_141180059_last.csprojAssemblyReference.cache
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\obj\Debug\algo_odev3_141180059_last.exe
+C:\Users\zoirasu\source\repos\algo_odev3_141180059_last\obj\Debug\algo_odev3_141180059_last.pdb
